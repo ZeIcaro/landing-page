@@ -134,6 +134,7 @@ body {
 .third-block {
     background-color: #E5E7EB;
     color: #1F2937;
+    padding: 100px 250px;
 }
 
 .third-block .takeaway-quote {
@@ -144,6 +145,8 @@ body {
 
 .third-block .author {
     font-weight: bold;
+    text-align: right;
+    font-size: 24px;
 }
 
 
